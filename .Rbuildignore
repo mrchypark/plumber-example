@@ -1,2 +1,4 @@
 ^dockerfile$
 ^api$
+^.*\.Rproj$
+^\.Rproj\.user$
